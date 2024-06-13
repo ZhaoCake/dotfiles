@@ -1,0 +1,34 @@
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/屏幕截图/linux_fetch/fedora_fastfetch.png
+File10[$e]=$HOME/WorkSpace/ai_sps/\\电子技术基础数字部分（第7版）康华光习题解析\\87.png
+File2[$e]=$HOME/Pictures/屏幕截图/linux_fetch/lubuntu_neofetch.png
+File3[$e]=$HOME/Pictures/屏幕截图/linux_fetch/windows_fastfetch.png
+File4[$e]=$HOME/Pictures/屏幕截图/linux_fetch/wine_fastfetch.png
+File5[$e]=$HOME/WorkSpace/embed_learn/f401ccu6-pins.jpeg
+File6[$e]=$HOME/WorkSpace/embed_learn/221134rfuuvnuzs4zl5is5.png
+File7[$e]=$HOME/WorkSpace/digital_design/ysyx-workbench/nvboard/NVBoard.jpg
+File8[$e]=$HOME/Pictures/58ED87EB92EE3EFB16BF016BF7A26DDB.jpg
+File9[$e]=$HOME/WorkSpace/ai_sps/\\电子技术基础数字部分（第7版）康华光习题解析\\1.png
+Name1[$e]=fedora_fastfetch.png
+Name10[$e]=\\电子技术基础数字部分（第7版）康华光习题解析\\87.png
+Name2[$e]=lubuntu_neofetch.png
+Name3[$e]=windows_fastfetch.png
+Name4[$e]=wine_fastfetch.png
+Name5[$e]=f401ccu6-pins.jpeg
+Name6[$e]=221134rfuuvnuzs4zl5is5.png
+Name7[$e]=NVBoard.jpg
+Name8[$e]=58ED87EB92EE3EFB16BF016BF7A26DDB.jpg
+Name9[$e]=\\电子技术基础数字部分（第7版）康华光习题解析\\1.png
+
+[SideBar]
+InformationSplitterSizes=167,308
+IsVisible ViewMode=true
+SideBarSplitterSizes=192,1309

@@ -1,0 +1,8 @@
+[Libinput][10182][480][GXTP7863:00 27C6:01E0 Touchpad]
+NaturalScroll=true
+
+[Libinput][9610][42][SINO WEALTH Keyboard Consumer Control]
+NaturalScroll=true
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true

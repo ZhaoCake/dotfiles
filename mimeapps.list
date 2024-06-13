@@ -1,0 +1,13 @@
+[Added Associations]
+application/pdf=okularApplication_pdf.desktop;microsoft-edge-dev.desktop;wps-office-pdf.desktop;
+text/plain=kate.desktop;
+x-scheme-handler/baiduyunguanjia=baidunetdisk.desktop;
+x-scheme-handler/etcher=balena-etcher.desktop;Electron.desktop;
+x-scheme-handler/clash=clash-verge.desktop
+
+[Default Applications]
+application/pdf=okularApplication_pdf.desktop;
+text/plain=kate.desktop;
+x-scheme-handler/baiduyunguanjia=baidunetdisk.desktop
+x-scheme-handler/etcher=balena-etcher.desktop
+x-scheme-handler/clash=clash-verge.desktop

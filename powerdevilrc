@@ -1,0 +1,17 @@
+[AC][Display]
+TurnOffDisplayIdleTimeoutWhenLockedSec=40
+
+[AC][Performance]
+PowerProfile=performance
+
+[AC][SuspendAndShutdown]
+LidAction=2
+
+[Battery][Display]
+TurnOffDisplayIdleTimeoutSec=480
+
+[Battery][Performance]
+PowerProfile=balanced
+
+[LowBattery][Performance]
+PowerProfile=power-saver

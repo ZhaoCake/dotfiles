@@ -1,0 +1,11 @@
+[GuiConfig]
+captureMode=0
+
+[ImageSave]
+lastImageSaveAsLocation=file:///home/zhaocake/WorkSpace/digital_design/digital-course-design/docs/images/nvboard-base.png
+lastImageSaveLocation=file:///home/zhaocake/Pictures/屏幕截图/屏幕截图_20240607_204026.png
+translatedScreenshotsFolder=屏幕截图
+
+[VideoSave]
+preferredVideoFormat=0
+translatedScreencastsFolder=屏幕录像
