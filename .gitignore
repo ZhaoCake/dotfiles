@@ -6,6 +6,9 @@ Code/*
 *.log*
 ficix*
 github-copilot*
+kde.org*
+latte*
+*.latte
 Typora*
 OpenMV
 openmv
