@@ -1,13 +1,20 @@
 [Added Associations]
-application/pdf=okularApplication_pdf.desktop;microsoft-edge-dev.desktop;wps-office-pdf.desktop;
+application/pdf=okular.desktop;okularApplication_pdf.desktop;microsoft-edge-dev.desktop;wps-office-pdf.desktop;
 text/plain=kate.desktop;
+text/x-verilog=kate-5.desktop;kate-4.desktop;kate-3.desktop;kate-2.desktop;
 x-scheme-handler/baiduyunguanjia=baidunetdisk.desktop;
+x-scheme-handler/clash=clash-verge.desktop;
 x-scheme-handler/etcher=balena-etcher.desktop;Electron.desktop;
-x-scheme-handler/clash=clash-verge.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-ZH3QP2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-ZH3QP2.desktop;
 
 [Default Applications]
-application/pdf=okularApplication_pdf.desktop;
+application/pdf=okular.desktop;
 text/plain=kate.desktop;
+text/x-verilog=kate-5.desktop;
 x-scheme-handler/baiduyunguanjia=baidunetdisk.desktop
-x-scheme-handler/etcher=balena-etcher.desktop
 x-scheme-handler/clash=clash-verge.desktop
+x-scheme-handler/etcher=balena-etcher.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-ZH3QP2.desktop
+message/rfc822=userapp-Thunderbird-ZH3QP2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-ZH3QP2.desktop

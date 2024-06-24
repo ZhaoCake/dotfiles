@@ -3,7 +3,7 @@ ProxyUrlDisplayFlags=9
 [Proxy Settings]
 NoProxyFor=localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,::1
 Proxy Config Script=http://127.0.0.1:33331/commands/pac
-ProxyType=1
+ProxyType=0
 ReversedException=false
 ftpProxy=http://127.0.0.1 8889
 httpProxy=http://127.0.0.1 7897

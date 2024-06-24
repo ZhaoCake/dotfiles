@@ -1,3 +1,4 @@
 [EmbedSettings]
 embed-application/pdf=false
 embed-text/plain=false
+embed-text/x-verilog=false

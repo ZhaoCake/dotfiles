@@ -3,6 +3,7 @@
         "data": [
             {
                 "autoRotation": "InTabletMode",
+                "colorProfileSource": "sRGB",
                 "connectorName": "eDP-1",
                 "edidHash": "aa6dca66d917f367cb0891acbdb1af0d",
                 "edidIdentifier": "BOE 2358 0 1 2020 0",
@@ -24,6 +25,7 @@
             },
             {
                 "autoRotation": "InTabletMode",
+                "colorProfileSource": "sRGB",
                 "connectorName": "Virtual-Virtual1",
                 "highDynamicRange": false,
                 "iccProfilePath": "",
@@ -43,6 +45,7 @@
             },
             {
                 "autoRotation": "InTabletMode",
+                "colorProfileSource": "sRGB",
                 "connectorName": "Virtual-Virtual3",
                 "highDynamicRange": false,
                 "iccProfilePath": "",

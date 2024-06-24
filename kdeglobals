@@ -41,7 +41,7 @@ DecorationFocus=9,90,133
 DecorationHover=9,90,133
 ForegroundActive=9,90,133
 ForegroundInactive=161,169,177
-ForegroundLink=9,90,133
+ForegroundLink=142,199,255
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -83,7 +83,7 @@ DecorationFocus=9,90,133
 DecorationHover=9,90,133
 ForegroundActive=9,90,133
 ForegroundInactive=0,0,0
-ForegroundLink=9,90,133
+ForegroundLink=7,66,97
 ForegroundNegative=176,55,69
 ForegroundNeutral=198,92,0
 ForegroundNormal=0,0,0
@@ -137,7 +137,7 @@ DirSelectDialog Size=785,585
 
 [General]
 AccentColor=9,90,133
-ColorSchemeHash=faaf5d0b6da1b5cb6a1d51987c1f844813d2a797
+ColorSchemeHash=38f350e0530aaa58cc20a2cf2011a8a2d0c7a4fc
 LastUsedCustomAccentColor=9,90,133
 
 [KFileDialog Settings]

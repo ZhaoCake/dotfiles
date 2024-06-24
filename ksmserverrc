@@ -2,14 +2,21 @@
 count=0
 
 [Session: saved at previous logout]
-clientId1=1019d1c115e146000171825227900000011180004
-clientId2=1019d1c115e146000171825227900000011180005
-count=2
+clientId1=1019d1c115e146000171910239800000009020005
+clientId2=1019d1c115e146000171924190500000009140011
+clientId3=1019d1c115e146000171924257300000010950006
+count=3
+discardCommand2[$e]=rm,$HOME/.config/session/konsole_1019d1c115e146000171924190500000009140011_1719242814_736214
+discardCommand3[$e]=rm,$HOME/.config/session/dolphin_1019d1c115e146000171924257300000010950006_1719242814_736242
 program1=/usr/lib/DiscoverNotifier
-program2=fcitx5-plasma-theme-generator
-restartCommand1=/usr/lib/DiscoverNotifier,-session,1019d1c115e146000171825227900000011180004_1718252334_713057
-restartCommand2=fcitx5-plasma-theme-generator,-session,1019d1c115e146000171825227900000011180005_1718252334_713048
+program2=/usr/bin/konsole
+program3=/usr/bin/dolphin
+restartCommand1=/usr/lib/DiscoverNotifier,-session,1019d1c115e146000171910239800000009020005_1719242814_736211
+restartCommand2=/usr/bin/konsole,-session,1019d1c115e146000171924190500000009140011_1719242814_736214
+restartCommand3=/usr/bin/dolphin,-session,1019d1c115e146000171924257300000010950006_1719242814_736242
 restartStyleHint1=0
 restartStyleHint2=0
+restartStyleHint3=0
 userId1=zhaocake
 userId2=zhaocake
+userId3=zhaocake

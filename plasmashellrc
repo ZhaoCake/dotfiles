@@ -126,6 +126,25 @@ panelVisibility=2
 offset=0
 thickness=54
 
+[PlasmaViews][Panel 279]
+floating=1
+
+[PlasmaViews][Panel 279][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 306]
+floating=1
+
+[PlasmaViews][Panel 306][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 333]
+floating=1
+panelLengthMode=0
+
+[PlasmaViews][Panel 333][Defaults]
+thickness=48
+
 [PlasmaViews][Panel 39]
 floating=1
 
